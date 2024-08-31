@@ -23,14 +23,14 @@ Below are two GIFs showing the original and processed videos:
 
 This GIF represents the video without any preprocessing:
 
-![Original Video](original.gif)
+![Original Video](media/orig.gif)
 
 ### Processed Video
 
 
 This GIF shows the video after applying preprocessing, with cars tracked and their movements indicated:
 
-![Processed Video](output.gif)
+![Processed Video](media/output.gif)
 
 ## Requirements
 
